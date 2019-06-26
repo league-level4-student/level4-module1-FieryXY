@@ -50,7 +50,7 @@ public class _00_Horoscope {
 		}
 	// 3. Make a main method to test your method
 	public static void main(String[] args) {
-		
+		new _00_Horoscope().doHoro(Zodiac.ARIES);
 	}
 	
 }
