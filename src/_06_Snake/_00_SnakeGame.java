@@ -1,4 +1,4 @@
-package _06_Snake;
+\package _06_Snake;
 
 import java.awt.Color;
 import java.awt.Dimension;

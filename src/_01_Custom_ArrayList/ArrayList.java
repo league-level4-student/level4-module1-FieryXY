@@ -1,15 +1,23 @@
 package _01_Custom_ArrayList;
 
+
 @SuppressWarnings("unchecked")
 
 public class ArrayList <T>{
 	
+	
+	
 	public ArrayList() {
+		
 	}
 	
 	public T get(int loc) throws IndexOutOfBoundsException {
 		
 		return null;
+	}
+	
+	public int size() {
+		return 0;
 	}
 	
 	public void add(T val) {
